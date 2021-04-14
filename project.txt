@@ -1,0 +1,18 @@
+Tools:
+1. Using nvim
+2. Using Clion
+3. Focus is on C++ Best practices. 
+4. Use C++20 as much as possible.
+
+Plan
+- The plan.
+- Getting Started.
+- C++ So Far. 
+- Reading SFML Input States.
+- Managing a Game State. 
+- Make our Game Testable. 
+- Make Game State Allocator Aware.
+- Add Logging to Game Engine.
+- Draw a Game Map.
+- Dialog Trees.
+- Porting from SFML to SDL.
